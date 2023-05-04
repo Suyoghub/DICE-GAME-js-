@@ -1,0 +1,27 @@
+body{
+    background-color:#393E46;
+}
+
+.container{
+    width:70%;
+    margin:auto;
+    color:greenyellow;
+    text-align:center;
+}
+
+.dice{
+    display:inline-block;
+    padding:40px;
+}
+
+h1{
+    font-size:4rem;
+}
+
+p{
+    font-size:2rem;
+}
+
+img{
+    height:150px;
+}
